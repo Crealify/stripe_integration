@@ -1,7 +1,7 @@
 # Flutter Stripe Integration (2026)
 
 <p align="center">
-  <img src="https://github.com/Crealify/stripe_integration/blob/Crealify/assets/test_card_information.png" alt="Stripe Test Cards" width="300"/>
+  <img src="https://github.com/Crealify/stripe_integration/blob/Crealify/assets/test_card_information.png" alt="Stripe Test Cards" width="250"/>
 </p>
 
 A **production-ready Flutter Stripe integration guide (2026)** with exact file paths, updated Android setup, and clean architecture using Riverpod.
@@ -350,7 +350,7 @@ class StripePaymentService {
 
 
 <p align="center">
-  <img src="https://github.com/Crealify/stripe_integration/blob/Crealify/assets/test_card_information.png" width="600"/>
+  <img src="https://github.com/Crealify/stripe_integration/blob/Crealify/assets/test_card_information.png" width="250"/>
 </p>
 
 * **Card:**
